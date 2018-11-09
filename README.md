@@ -1,1 +1,1 @@
-# yonghongyong_git_demo1
+# 此项目为高并发秒杀项目，详情请查看代码
