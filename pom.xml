@@ -58,7 +58,7 @@
       <artifactId>mysql-connector-java</artifactId>
       <version>5.1.38</version>
     </dependency>
-	<!--添加c3p0数据源-->
+	<!--添加c3p0数据源依赖-->
     <dependency>
       <groupId>com.mchange</groupId>
       <artifactId>c3p0</artifactId>
